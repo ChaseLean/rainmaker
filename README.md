@@ -12,4 +12,4 @@ Download `The Rain Maker.exe`.
 ## Notes
 The algorithm to generate lightning in this program causes lag and can be optimized.
 
-Click <a href="#">here</a> for an improved version of the algorithm.
+Click <a href="https://github.com/ChaseLean/procedural-lightning">here</a> for an improved version of the algorithm.
